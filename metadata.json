@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Muse Experimental",
+  "description": "A real-time, collaborative tool for creative and technical exploration, powered by the Google Gemini API. Explore concepts, get help with writing, and chat with an AI assistant that uses different modes for different tasks.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ]
+}
